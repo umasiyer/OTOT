@@ -1,3 +1,10 @@
+This folder contains code specific to post #69.
+
+Belos is boostrap readme for create-react-app as the project was created using create-react-app for boilerplating.
+
+---------------------------------------------------------------------------------------------------------------------------
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
