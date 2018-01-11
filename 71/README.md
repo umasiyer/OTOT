@@ -1,3 +1,5 @@
+THis project was bootstrapped with Create react app and the read me is as below. THis code covers example dealt in post #71
+---------------------------------------------------------------------------------------------------------------------------------
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
